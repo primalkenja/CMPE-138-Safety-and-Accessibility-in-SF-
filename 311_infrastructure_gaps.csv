@@ -1,0 +1,51 @@
+neighborhood,complaint_type,request_count
+Mission,General Cleaning,40921
+Mission,Bulky Items,33686
+South of Market,General Cleaning,30844
+Tenderloin,Human Waste,27541
+Mission,Encampment Reports,18141
+South of Market,Bulky Items,17432
+South of Market,Human Waste,16320
+South of Market,Encampment Reports,16169
+Tenderloin,Bulky Items,14512
+Mission,Human Waste,13691
+Mission,Graffiti on Building_commercial,13100
+Bayview,General Cleaning,12559
+Portola,Bulky Items,12524
+Portola,General Cleaning,10993
+Outer Sunset,Bulky Items,10960
+Mission Dolores,General Cleaning,10618
+Outer Richmond,Bulky Items,10271
+Nob Hill,Bulky Items,10183
+Lower Nob Hill,Bulky Items,9557
+Inner Richmond,Bulky Items,9367
+Outer Richmond,General Cleaning,9348
+Bayview,Bulky Items,9169
+Tenderloin,General Cleaning,8440
+Bernal Heights,Bulky Items,8336
+South of Market,Graffiti on Building_commercial,8113
+Excelsior,Bulky Items,8097
+Mission Dolores,Bulky Items,8016
+Mission,Graffiti on Building_other,7934
+Sunnydale,Plumbing,7520
+Outer Sunset,General Cleaning,7452
+South of Market,Damaged Parking_Meter,7397
+Nob Hill,General Cleaning,6773
+Lower Nob Hill,General Cleaning,6709
+North Beach,General Cleaning,6586
+Lower Haight,General Cleaning,6505
+North Beach,Bulky Items,6474
+Potrero Hill,General Cleaning,6390
+Inner Richmond,General Cleaning,5975
+Chinatown,General Cleaning,5913
+Duboce Triangle,General Cleaning,5860
+Mission,Graffiti on Pole,5838
+Mission,Graffiti on Parking_meter,5824
+Russian Hill,Bulky Items,5795
+Chinatown,Bulky Items,5573
+Lower Haight,Bulky Items,5521
+South of Market,Graffiti on Building_other,5407
+South of Market,Medical Waste,5341
+Bernal Heights,General Cleaning,5336
+Silver Terrace,General Cleaning,5301
+Bernal Heights,Abandoned Vehicle - Car4door,5263
